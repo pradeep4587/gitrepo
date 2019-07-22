@@ -1,2 +1,2 @@
 # gitrepo
-this for git repo readme
+this for git repo readme.
